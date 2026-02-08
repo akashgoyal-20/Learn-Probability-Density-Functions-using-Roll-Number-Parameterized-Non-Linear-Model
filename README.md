@@ -48,7 +48,7 @@ where
 aᵣ=0.05*(r mod 7)  
 bᵣ=0.3*(r mod 5 + 1)  
 
-r is the university roll number.(102317012 in this case)
+r is the university roll number.(102317024 in this case)
 
 ---
 
